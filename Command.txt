@@ -1,0 +1,10 @@
+For adding the MyFile.txt file = git add "MyFile.txt"
+For adding the project to source control = git init
+
+I again used the git add command to add the new files to the source control
+
+To change the username = git config --global "username"
+
+To see the current state of the project = git status
+
+I learned that git status shows the files that are added and commited into the project source
